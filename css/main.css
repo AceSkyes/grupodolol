@@ -1,0 +1,41 @@
+input{
+
+font-size: 30px;
+
+}
+
+
+#azul:hover{
+
+	background-color: blue;
+	color: white;
+
+}
+
+#vermelho:hover{
+
+	background-color: red;
+
+}
+
+#amarelo:hover{
+
+	background-color: yellow;
+
+}
+
+#verde:hover{
+
+	background-color: green;
+
+}
+
+#roxo:hover{
+
+	background-color: purple;
+	color: white;
+
+}
+
+
+/*MUDE A FONTE (H1), SEJA CRIATIVO!!*/
